@@ -1,4 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
 body {
   margin: 0;
   min-height: 100vh;
+  font-family: "Rubik", sans-serif, cursive;
+}
+
+img {
+  height: 100px;
+  width: 300px;
+}
+
+.header-title {
+  padding: 10px;
+  margin: 10px;
 }
